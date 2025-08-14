@@ -1,2 +1,2 @@
-# chicken
+# chick
 Armenian hospital clinic
